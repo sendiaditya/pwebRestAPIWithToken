@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/jeypc/go-jwt-mux/middlewares"
+	"https://github.com/sendiaditya/pwebRestAPIWithToken/middlewares"
 
 	"github.com/sendiaditya/pwebRestAPIWithToken/controllers/authcontroller"
 	"github.com/sendiaditya/pwebRestAPIWithToken/controllers/productcontroller"
