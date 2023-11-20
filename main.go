@@ -6,9 +6,9 @@ import (
 
 	"github.com/jeypc/go-jwt-mux/middlewares"
 
-	"github.com/jeypc/go-jwt-mux/controllers/authcontroller"
-	"github.com/jeypc/go-jwt-mux/controllers/productcontroller"
-	"github.com/jeypc/go-jwt-mux/models"
+	"github.com/sendiaditya/pwebRestAPIWithToken/controllers/authcontroller"
+	"github.com/sendiaditya/pwebRestAPIWithToken/controllers/productcontroller"
+	"github.com/sendiaditya/pwebRestAPIWithToken/models"
 
 	"github.com/gorilla/mux"
 )
