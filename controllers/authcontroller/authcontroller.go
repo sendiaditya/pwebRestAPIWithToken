@@ -5,13 +5,13 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/jeypc/go-jwt-mux/config"
+	"github.com/sendiaditya/pwebRestAPIWithToken/config"
 
 	"github.com/golang-jwt/jwt/v4"
-	"github.com/jeypc/go-jwt-mux/helper"
+	"github.com/sendiaditya/pwebRestAPIWithToken/helper"
 	"gorm.io/gorm"
 
-	"github.com/jeypc/go-jwt-mux/models"
+	"github.com/sendiaditya/pwebRestAPIWithToken/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

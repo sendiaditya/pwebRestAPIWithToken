@@ -1,4 +1,4 @@
-module github.com/jeypc/go-jwt-mux
+module github.com/sendiaditya/pwebRestAPIWithToken
 
 go 1.18
 
