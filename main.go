@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"https://github.com/sendiaditya/pwebRestAPIWithToken/middlewares"
+	"github.com/sendiaditya/pwebRestAPIWithToken/middlewares"
 
 	"github.com/sendiaditya/pwebRestAPIWithToken/controllers/authcontroller"
 	"github.com/sendiaditya/pwebRestAPIWithToken/controllers/productcontroller"
